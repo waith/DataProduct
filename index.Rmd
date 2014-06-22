@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Slide 1
+## Slide 2
 
 Background
 ----------
@@ -22,7 +22,7 @@ The Name of App is Conversion Feet and Inches to CM.
 
 --- .class #id 
 
-## Slide 2
+## Slide 3
 
 Data entry
 ----------
@@ -37,7 +37,7 @@ The result will be shown after that.
 --- .class #id 
 
 
-## Slide 3
+## Slide 4
 
 Calculation Methodology
 -----------------------
@@ -51,7 +51,7 @@ Total number of inches will then times 2.54 (1 inch = 2.54 cm) to arrive at cm.
 
 --- .class #id 
 
-## Slide 4
+## Slide 5
 
 An Example
 ----------
@@ -65,9 +65,7 @@ cm<-(feet*12+inches)*2.54
 cm
 ```
 
---- .class #id 
 
-## Slide 5
 
 Conclusion
 ----------
